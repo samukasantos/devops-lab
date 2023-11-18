@@ -7,4 +7,4 @@ csrf = CSRFProtect(app)
 
 @app.route("/")
 def pagina_inicial():
-    return "Pipeline DevOps Lab"
+    return "Pipeline DevOps Lab - Final Version"
